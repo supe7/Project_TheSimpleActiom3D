@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2603210791431696041
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3704284648147977460, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: missile
+      value: 
+      objectReference: {fileID: 1020164552854395077, guid: 38c36b1d906406d4f8d944f911165585, type: 3}
+    - target: {fileID: 3929485143185348561, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348561, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -34.93
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348561, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348561, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -41.39
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348561, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348561, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348561, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348561, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348561, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348561, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348561, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348563, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: missile
+      value: 
+      objectReference: {fileID: 1020164552854395077, guid: 38c36b1d906406d4f8d944f911165585, type: 3}
+    - target: {fileID: 3929485143185348564, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_Name
+      value: HormingCannon Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143185348564, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
+    - target: {fileID: 3929485143563692233, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9f9f7b6926851b6428c473b82777b82d, type: 2}
+    - target: {fileID: 3929485144021360286, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9f9f7b6926851b6428c473b82777b82d, type: 2}
+    m_RemovedComponents:
+    - {fileID: 3929485143185348563, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: e231b80bd060ad24a8d93ad8f59257d9, type: 3}
